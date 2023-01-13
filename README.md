@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <a href="https://github.com/lhk6565"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lhk6565&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/lhk6565"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhk6565&langs_count=3&theme=buefy" /></a> |
+| <a href="https://github.com/lhk6565/lhk6565"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lhk6565&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/lhk6565/lhk6565"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhk6565&langs_count=3&theme=buefy" /></a> |
 | ------------- | ------------- |
